@@ -1,0 +1,467 @@
+------------------Eclipse、MinGW、CDT 工具链-----------------------------------------------------
+http://jingyan.baidu.com/article/ff41162596a77912e4823716.html			  	JAVA JDK环境配置方法		pass  1	
+
+http://jingyan.baidu.com/article/456c463b67b4310a59314468.html				  Eclipse下编写C++程序——CDT环境搭建  Eclipse、MinGW、CDT安装
+
+http://developer.51cto.com/art/200906/126363.htm					              同上
+
+http://wenku.baidu.com/link?url=NPq2aCicL1BWKqiF1ACkDIdY5UgyIYKvvo0jAtntd9fgqLX
+zAsTgkSCK9MSCFOrDno5KTaTd4wOLl9KD5NIAQHSgrYSJ3CgeRie8dxyD2lO				    Windows下用Eclipse搭建CC++开发环境
+
+http://blog.163.com/squall_smile/blog/static/60349840201207112415434		cygwin的安装及配置
+
+http://www.cnblogs.com/skyofbitbit/p/3708216.html					              同上
+
+http://www.cygwin.cn/site/install/							                        同上
+
+http://blog.163.com/zhuandi_h/blog/static/180270288201282204521376/			Win7 完全删除cygwin
+
+http://www.oseye.net/user/kevin/blog/68							                    Eclipse 快捷键大全
+
+http://blog.csdn.net/alvin969/article/details/3466867					          Eclipse开发C/C++ (CDT安装详解） .
+
+http://tdm-gcc.tdragon.net/download							                        gcc 新版本下载
+
+http://nuwen.net/mingw.html								                              MinGW下载
+
+http://nick.txtcc.com/index.php/scm/129							                    用ECLIPSE编译KEIL工程
+
+http://www.embeded0.com/system/rtt/948.html						                  配置嵌入式系统RT-Thread
+
+http://www.rt-thread.com/page/jobs.html							                    RT-Thread公司网址
+
+http://www.rt-thread.org/dokuwiki/doku.php?id=eclipse					          配置嵌入式系统RT-Thread
+
+http://www.amobbs.com/thread-5205225-1-1.html						eclipse 开发IAR工程
+
+http://bbs.csdn.net/forums/Eclipse							eclipse论坛
+
+------------------cppUnit 编译安装---------------------------------------------------------------
+http://www.freedesktop.org/wiki/Software/cppunit/	 				cppunit下载
+
+http://webserver2.tecgraf.puc-rio.br/~ismael/Cursos/YC++/labs/Unit%20Testing%20C
+++%20Programs%20using%20CppUnit%20in%20Eclipse%20IDE%20on%20Windows.htm         	Unit Testing C++ Programs using CppUnit in Eclipse IDE on Windows
+
+http://www.oschina.net/question/5189_7704						CPPUnit类的介绍
+
+http://www.oschina.net/question/12_7578							CPPUnit快速使用指南
+
+http://www.docin.com/p-8624.html							CppUnit Cookbook中文版
+
+http://blog.csdn.net/cpluser/								CPPUnit测试框架入门
+
+http://blog.chinaunix.net/uid-20384806-id-1954332.html					cppunit使用详解
+
+http://bbs.chinatesting.cn/thread-178512-1-30.html					cppunit测试优先流程
+
+http://morningspace.51.net/resource/cppunit/preface.html?s=083b9b6c1722717eda1efb
+1d056e4bbe#11										cppunit源码介绍
+
+http://www.cnblogs.com/justin_s/archive/2011/12/31/2309083.html				CPPUNIT的ASSERT们 
+
+
+------------------Hippo mocks 使用方法---------------------------------------------------------------
+http://wenku.baidu.com/link?url=pftMmEsfbhcGva6GDTbloSCDBLqyxm_ing
+uGpijf4JqTUnGDEnM0GIw671aJzoMxA3DpukpqS-6iHsUlrP1rTFCmcCzyyq7uBUvOoaFEe6u		Mock方法介绍
+
+https://www.assembla.com/wiki/show/hippomocks/						Hippo mocks 下载
+
+https://github.com/dascandy/hippomocks							同上
+
+https://www.assembla.com/wiki/show/hippomocks/Tutorial_3_0				Hippo Mocks Tutorial
+
+http://hippomocks.com/Main_Page#The_MockRepository_Class				wiki百科
+
+http://hippomocks.sourceforge.net/							资料
+
+http://blog.csdn.net/devhubs/article/details/8018084					mock和stub的区别
+
+http://www.blogjava.net/aoxj/archive/2010/08/26/329975.html				同上
+
+
+------------------CMake 使用方法---------------------------------------------------------------
+http://www.cnblogs.com/sinojelly/archive/2010/05/22/1741337.html			CMake入门
+
+http://www.360doc.com/content/12/0507/10/9369336_209205930.shtml			同上
+
+http://blog.sina.com.cn/s/blog_62715e790100grnk.html					CMake 基本使用方法
+
+http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf			CMake实践
+
+http://www.cppblog.com/tx7do/archive/2010/08/19/124000.html				CMake的使用 
+
+http://www.vtk.org/Wiki/CMake:Eclipse_UNIX_Tutorial					CMake with Eclipse 
+
+http://www.cmake.org/cmake-tutorial/							CMake tutorial
+
+http://www.cnblogs.com/coderfenghc/archive/2013/01/20/2846621.html			CMake tutorial 中文版
+
+http://blog.chinaunix.net/uid-24512513-id-3196376.html					CMake 语法
+
+http://blog.atime.me/note/cmake.html							CMake使用总结
+
+http://blog.csdn.net/csfreebird/article/details/6843545					CTest示例	*******
+
+http://blog.csdn.net/dodo_check/article/details/8363038					cmake 和 ctest 等介绍
+
+
+-----------------GCov 和 LCov相关---------------------------------------------------------------
+http://www.uml.org.cn/Test/201208311.asp						GCOV简介
+
+http://blog.csdn.net/heli007/article/details/8268614#					GCOV的使用-测试代码覆盖率
+
+http://blog.csdn.net/w565911788/article/details/7617099					Linux下gcov和lcov代码覆盖率分析
+
+http://blog.csdn.net/wind19/article/details/6117349					gcov使用
+
+http://www.cnblogs.com/turtle-fly/archive/2013/01/09/2851474.html			gcov和lcov的使用
+
+http://wiki.eclipse.org/Linux_Tools_Project/GCov/User_Guide				Eclipse内直接使用GCOV看覆盖率
+
+
+-----------------小综合-------------------------------------------------------------------------
+http://m.blog.csdn.net/blog/lostaway/40948841						CMake集成gcov
+	
+http://www.cppblog.com/jinq0123/archive/2012/07/11/182790.html				同上
+
+http://blog.csdn.net/weekly123/article/details/2181558					Eclipse+cygwin+cppunit+makefile
+
+http://www.cnblogs.com/boneking/p/4262341.html						Eclipse C++,Cygwin 64,gcov,lcov 单体&覆盖率 
+
+http://blog.163.com/evelyn1111@126/blog/static/1737862982011669322995/			cppunit测试的一个小例子	 
+
+
+
+-----------------Softune使用-------------------------------------------------------------------------
+http://www.docin.com/p-659781370.html							Softune入门
+
+
+-----------------HMIIIIIIII-------------------------------------------------------------------------
+http://www.bing.com/knows/search?q=psd&mkt=zh-cn					psd格式
+
+
+---------------------其他------------------------------
+http://www.cnblogs.com/guanghuiqq/archive/2012/07/23/2605261.html			有关重构
+
+http://blog.sina.com.cn/s/blog_8312d78f0100yzgf.html					gcc用法
+
+http://www.gnu.org/licenses/lgpl.html							GNU LESSER GENERAL PUBLIC LICENSE
+
+http://blog.csdn.net/macky0668/article/details/6839517					gcov和gprof 
+
+http://blog.csdn.net/haoel/article/details/2886						跟我一起学习Makefile
+
+http://www.taobaotest.com/blogs/qa?bid=8517						淘测试
+
+https://msdn.microsoft.com/zh-tw/library/dn743856.aspx					30天快速上手TDD
+
+http://www.infoq.com/cn/articles/why-testing-matters-agile				为什么测试在敏捷项目中重要
+
+http://baike.baidu.com/link?url=UmyvEM3TfDrtT0bCkY6eMinJtv
+vbXkLX2nKZFLBTr56iuMiN5VHfyKsjAOz_eV2_0qrMLxPLxQSm7mUYHsYTFK				extern和extern "c"的用法
+
+http://www.cnblogs.com/rollenholt/archive/2012/03/20/2409046.html			extern "c"的用法
+
+http://lpy999.blog.163.com/blog/static/117372061201182051413310/			extern与头文件(*.h)的区别和联系	
+
+http://blog.csdn.net/jiqiren007/article/details/5933599					extern C的作用详解 
+
+http://zhidao.baidu.com/question/316579017.html						static 变量的解释
+
+http://blog.csdn.net/shuilan0066/article/details/6924251				同上
+
+http://baike.baidu.com/link?url=l-fXE28Vxrvk6D6bmZsjmRQR92Lq
+NNWFRSCEshjgRsVc8GG4zxqURcfTy_TKfB-mKBfrtnLVrmm5t5RKGII38a				同上
+
+64.233.186.165										谷歌服务器
+
+http://zhidao.baidu.com/link?url=McAL72vjf8z7IDvahHWQ03VwLR3P
+xWy4yiApnigBAU0pjOyKM811Df8W76E_PcF-JvnKCFcyBCWW7ajfmJyLLJT8ARvYy5sjpuypmvpwAPC		C++取系统时间
+
+http://www.kailesoft.com/Article/8.html							凯乐软件   关于单元测试的资料
+
+http://blog.csdn.net/easytdd/article/details/24699677					谁做单元测试的效果最好
+
+http://www.cnblogs.com/smght/p/4446622.html						暗时间
+
+http://bbs.chinatesting.cn/forum-88-1.html						测试论坛  @@！#！#！#
+
+http://www.zhihu.com/search?q=%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95&type=question	知乎 单元测试
+
+http://bbs.chinatesting.cn/thread-600235-1-1.html					单元测试的内部输入
+
+http://bbs.chinatesting.cn/thread-599275-1-3.html					单元测试的双刃剑
+
+http://baike.baidu.com/link?url=aJmBGoqDETTjgy0Hc_Zs_yQUUNOF7uEjza2yJRtABwTL1UA0u
+ERbt09fGMwg2_PbTHxXtmcSiYdsy2sWACGMYK							结对编程
+
+http://forum.eepw.com.cn/forum/97/1							电子产品世界
+
+http://bbs.chinatesting.cn/thread-180373-1-32.html					测试驱动开发方法介绍及CPPUnit使用指南
+		
+http://bbs.chinatesting.cn/thread-164904-1-31.html					日构建和持续集成
+
+http://bbs.chinatesting.cn/thread-579986-1-16.html					单元测试等价于白箱测试吗？
+
+http://www.21ic.com/jichuzhishi/mcu/memory/2014-04-23/322864.html			什么是ROM、RAM、DRAM、SRAM和FLASH的区别
+
+http://blog.csdn.net/happydeer/article/details/17023229					最牛B的编码套路
+
+http://katas.softwarecraftsmanship.org/							Code Kata & TDD 例子视频
+
+http://osherove.com/blog/2005/4/3/a-unit-test-should-test-only-one-thing.html		A Unit test should test only one thing 
+
+http://osherove.com/blog/2005/4/3/naming-standards-for-unit-tests.html			naming rules
+
+http://osherove.com/blog/								osherove的博客
+
+http://baike.baidu.com/link?url=1RQoLPAZeYKm0m3rez0HPgvZPAwF8uGZC_JBX5GBtUbuRh
+_DEAToCtFdIUHUJPAOpLV4_PAWnBpnuovkhIoJsq						TDD创始人
+
+http://www.cnblogs.com/infiniti/archive/2013/03/19/2968689.html				C语言中，头文件和源文件的关系
+
+http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/		Writing Great Unit Tests
+
+http://www.cnblogs.com/idior/archive/2006/02/05/325809.html				重构
+
+http://blog.sina.com.cn/s/blog_6e0693f70100so42.html					C/C++不同文件夹下包含头文件的方法及#include的使用
+
+http://www.ltesting.net/ceshi/ceshijishu/dycs/list_90_2.html				单元测试论坛
+
+http://c.biancheng.net/cpp/html/450.html						C语言union关键字
+
+http://blog.sina.com.cn/s/blog_729057d90101lc5w.html					与印度人沟通
+
+http://gojko.net/2012/05/08/redefining-software-quality/				Redefining software quality
+
+http://blog.csdn.net/wk119911/article/details/18400675					KL15的含义
+
+http://www.cnblogs.com/sunt2012/archive/2013/05/27/3102816.html				Windows平台下LispBox环境搭建 
+				
+http://blog.csdn.net/redguardtoo/article/details/7222501/				Emacs高手
+
+http://www.eefocus.com/book/08-08/510921276059353.html
+http://www.docin.com/p-613078219.html							softune使用
+
+http://wenku.baidu.com/link?url=kql-NZblTbbli6OWNZfpPAyEULcSaw08
+--_o8LlmEgsyHbCZy-mkSWvyLpVbqi3Kw3kUzWuTWS2PAnYU4vm3asS1bqS0LEt2Z6-5tXe6X6S		汽车电子ISO7637	
+
+http://coolshell.cn/articles/11466.html							关于整形溢出
+
+http://coolshell.cn/articles/1302.html							code review
+
+http://coolshell.cn/?s=%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95				酷壳单元测试
+
+http://www.weixueyuan.net/view/5939.html						java学习
+
+http://www.educity.cn/help/zt/java2/							同上
+
+http://blog.csdn.net/aiwoziji13/article/details/7330333					关于undefined reference to的问题
+
+http://blog.csdn.net/haoel/article/details/2875						编程修养
+
+http://blog.csdn.net/aiwoziji13/article/details/7330333					undefined reference to问题汇总
+
+http://zhidao.baidu.com/question/429835749.html						""和<>
+
+http://bbs.chinaunix.net/								chain unix
+
+http://blog.csdn.net/bizhu12/article/details/6532235					指针及内存分配
+
+http://www.cnblogs.com/Hisin/archive/2012/04/10/2441455.html				指针之间的赋值
+
+http://blog.csdn.net/yongzi123/article/details/4321756					局部变量与全局变量问题汇总
+
+http://www.cnblogs.com/yc_sunniwell/archive/2010/06/24/1764231.html			volatile关键字
+
+http://blog.bccn.net/vfdff/821								mock 和 stub 的区别，联系
+
+http://www.spansion.com/CN/About/Pages/ContactInfoDCSCoE.aspx#				美国菲索半导体
+
+http://nedbatchelder.com/blog/								a 歪果仁de blog
+
+http://blog.codinghorror.com/								CODING HORROR
+
+http://www.oschina.net/news/17643/how-to-choose-opensource-license			有关开源许可证
+
+http://blog.csdn.net/ywk253100/article/details/22693031					 得墨忒耳定律 （Law of Demeter，缩写LoD） 
+
+http://blog.csdn.net/huqinwei987/article/details/23597091				联合体union的使用
+
+http://jingyan.baidu.com/article/1612d5004310ebe20e1eeed0.html			EEPROM与Flash区别
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When I’m old and dying, I plan to look back on my life and say “wow, that was an adventure,” not “wow, I sure felt safe.”
+
+乔布斯说Stay Hungry, Stay Foolish
+
+
+把技术当做艺术去学习
+
+做程序员，不做码农
+
+
+If you can’t be replaced then you can’t be promoted!	
+
+driving instead of waiting, leading instead of following
+
+入世和出世，取其精华去其糟粕
+
+富贵有定数，学问则无定数——求一分，便得一分
+
+
+
+我喜欢程序员，他们单纯、固执、容易体会到成就感；面对压力，能够挑灯夜战不眠不休；面对困难，能够迎难而上挑战自我。他
+们也会感到困惑与傍徨，但每个程序员的心中都有一个比尔盖茨或是乔布斯的梦想“用智慧开创属于自己的事业”。我想说的是，其
+实我是一个程序员
+
+
+大多数人按照我们所安排的路线生活，害怕探索其它路线，但也会有一些人，他们并不满足于被设定的生活轨迹，冲破我们设置的重重阻碍，意识到自由意志是天赐之物的人，才明白只有在奋力抗争后才知道如何善用之
+
+优秀程序员的价值，不在于其所掌握的几招屠龙之术，而是在细节中见真著。
+
+这个世界上，政治可以改变很多事情，而科技，可以通过促进信息的流通，最终去推动政治的变革，去改变整个世界。
+
+如果你只涉猎你能力所及的领域，那么你的技能就会过时。
